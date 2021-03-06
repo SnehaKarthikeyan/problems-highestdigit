@@ -1,1 +1,79 @@
 # problems-highestdigit
+
+Question:
+
+You are given a number N and your task is to find the largest value in the digits of the number N.
+
+Input Description:
+
+The first line contains an integer N (1<=N<=10^20).
+
+Ouput Description:
+
+Print the largest value in the digits of the number N.
+
+Hints:
+
+Separate each digit and find the largest value in the digits of the number N.
+
+Sample Input:
+
+56732461751123
+
+Sample Output:
+
+7
+
+Explanation:
+
+From the given Input, the largest value in the digits of the number N is 7
+
+Testcase 1:
+
+Input:
+
+349263556379817707541134
+
+Output:
+
+9
+
+Testcase 2:
+
+Input:
+
+453321234121354
+
+Output:
+
+5
+
+Testcase 3:
+
+Input:
+
+7642414553381233217676
+
+Output:
+
+8
+
+Testcase 4:
+
+Input:
+
+233112131121213
+
+Output:
+
+3
+
+Testcase 5:
+
+Input:
+
+133123513144
+
+Output:
+
+5
